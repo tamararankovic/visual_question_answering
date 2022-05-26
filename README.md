@@ -6,4 +6,4 @@
 
 ## Datasets:
 
-- https://drive.google.com/file/d/18-fe11bGvaLMq9IQVwHFtKEt5xpWuhPO/view?usp=sharing - region feature vectors (train dataset)
+- https://drive.google.com/drive/folders/1d108euXtDr3h2gUJMZv27HH1bfS32xnO?usp=sharing - intermediary and final train, validation and test datasets

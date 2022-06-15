@@ -1,4 +1,5 @@
 data/
 Annotations/
 .ipynb_checkpoints/
-model/best_model.h5
+model/
+model2/
